@@ -1,0 +1,13 @@
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\bin\Debug\netcoreapp3.1\WeatherParser.exe
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\bin\Debug\netcoreapp3.1\WeatherParser.deps.json
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\bin\Debug\netcoreapp3.1\WeatherParser.runtimeconfig.json
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\bin\Debug\netcoreapp3.1\WeatherParser.runtimeconfig.dev.json
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\bin\Debug\netcoreapp3.1\WeatherParser.dll
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\bin\Debug\netcoreapp3.1\WeatherParser.pdb
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\bin\Debug\netcoreapp3.1\AngleSharp.dll
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\obj\Debug\netcoreapp3.1\WeatherParser.csprojAssemblyReference.cache
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\obj\Debug\netcoreapp3.1\WeatherParser.AssemblyInfoInputs.cache
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\obj\Debug\netcoreapp3.1\WeatherParser.AssemblyInfo.cs
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\obj\Debug\netcoreapp3.1\WeatherParser.csproj.CopyComplete
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\obj\Debug\netcoreapp3.1\WeatherParser.dll
+E:\Source\Hello-World\ApplicationWeather\WeatherParser\obj\Debug\netcoreapp3.1\WeatherParser.pdb

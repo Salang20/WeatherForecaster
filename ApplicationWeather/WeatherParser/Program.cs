@@ -6,7 +6,7 @@ namespace WeatherParser
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            _ = Parsing.WeatherParsAsync();
         }
     }
 }
